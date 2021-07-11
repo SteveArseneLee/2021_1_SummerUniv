@@ -16,4 +16,3 @@ void copyarray(int from[], int to[], int n)
     for(int i=0;i<n;i++)
         to[i] = from[i];
 }
-
